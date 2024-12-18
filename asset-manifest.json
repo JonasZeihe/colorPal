@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorpal/static/css/main.f855e6bc.css",
+    "main.js": "/colorpal/static/js/main.6ce7cadd.js",
+    "static/js/453.a17501c0.chunk.js": "/colorpal/static/js/453.a17501c0.chunk.js",
+    "index.html": "/colorpal/index.html",
+    "main.f855e6bc.css.map": "/colorpal/static/css/main.f855e6bc.css.map",
+    "main.6ce7cadd.js.map": "/colorpal/static/js/main.6ce7cadd.js.map",
+    "453.a17501c0.chunk.js.map": "/colorpal/static/js/453.a17501c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6ce7cadd.js"
+  ]
+}
