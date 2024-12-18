@@ -16,10 +16,10 @@
 ### 🎨 **Dynamic Chart Customization**
 
 - Supports popular chart types:
-  - **Pie Chart** and **Donut Chart**
+  - **Pie Chart**, **Donut Chart**, **Radial Bar Chart**,
   - **Bar Chart** and **Line Chart**
   - **Radar Chart** and **Polar Chart**
-- Fully configurable **8 input fields**: Add names, values, and choose custom colors or gradients for each data segment.
+- Fully configurable **9 input fields**: Add names, values, and choose custom colors or gradients for each data segment.
 
 ### ✨ **Advanced Styling Options**
 
