@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import ColorPaletteForm from './components/ColorPaletteForm';
-import SVGPreview from './components/SVGPreview';
 import TextInputImport from './components/TextInputImport';
 import ThemeToggle from './components/ThemeToggle';
 import './App.css';
@@ -24,7 +23,6 @@ function App() {
         colorGroups={colorGroups}
         onGroupChange={handleGroupChange}
       />
-      <SVGPreview colors={colorGroups} darkMode={darkMode} />
     </div>
   );
 }
